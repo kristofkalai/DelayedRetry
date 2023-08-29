@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "delayedretry",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/DelayedRetry.git",
+      "state" : {
+        "revision" : "4d2ccc0e79316a4711bb3f1546c85ba0c8ea41b6",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
